@@ -1,0 +1,98 @@
+body{
+  margin-left:auto;
+  margin-right:auto;
+  
+}
+*{
+  margin:0;
+  padding:0;
+  
+}
+.modal{
+  width: 2850px;
+    height: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqgiBXCba1LGITPfu8WFmDOtT0xlvDwF6VHQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.bg{
+      height: 200px;
+    background-color: rgba(20, 18, 18, 0.333);
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+}
+.content{
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+h1{
+        color: black;
+    font-size: 50px;
+    text-align: center;
+}
+.box-circle{
+    width: 300px;
+    height: 300px;
+    background-image: url("https://anhdepfree.com/wp-content/uploads/2018/12/hinh-nen-phong-canh-thien-nhien-88.jpg");
+    border-radius: 100%;
+}
+
+.content-big {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.centerr{
+      margin-top: 30px;
+    text-align: center;
+}
+.bang1{
+  margin-top:20px;
+}
+.imgg{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhb97HbaJ23sCB97ANuDDPb5860kl6W1MvOt6SQdtor1qKYBwoYzscGYIxR7rNTMoQk7w&usqp=CAU);
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    max-width: 230px;
+    max-height: 150px;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+table{
+  width: 100%;
+    height: 100%;
+}
+.tab{
+  width:100%;
+  height:25px;
+  background-color:black;
+}
+a{
+  color:white;
+  margin-left:20px;
+}
+.leftt{
+  
+  text-align:right;
+  
+}
+footer{
+  background-color:#808080	;
+  height:40px;
+  text-align:center;
+  width:100%;
+  font-size:20;
+}
+h2{
+  bottom:20px;
+}
